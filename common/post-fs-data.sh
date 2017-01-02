@@ -5,7 +5,3 @@ MODDIR=${0%/*}
 
 # This script will be executed in post-fs-data mode
 # More info in the main Magisk thread
-
-/data/magisk/resetprop -n ro.product.model "Pixel XL"
-/data/magisk/resetprop -n ro.opa.eligible_device true
-/data/magisk/resetprop -n ro.product.manufacturer Google
