@@ -12,8 +12,8 @@ For smooth experience transitioning to Google Assistant from Google Now follow t
 ## Requirements
 1. Android Nougat 7.0+
 2. Google app version 6.10.31.21 or higher (if your current version of Google app is lower, you can opt in for beta-test of Google app [here](https://play.google.com/apps/testing/com.google.android.googlequicksearchbox))
-3. Magisk 10
-4. Magisk Manager 3.0
+3. Magisk 10 or higher
+4. Magisk Manager 3.0 or higher
 
 
 ## Important Notice
