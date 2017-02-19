@@ -1,6 +1,7 @@
 # Google Assistant Enabler
-This Magisk module enables Google Assistant on phones running Nougat.
+This Magisk module enables Google Assistant on phones running Nougat. [More details in support thread](http://forum.xda-developers.com/apps/magisk/module-google-assistant-enabler-magisk-t3518883).
 
+## How to install/use
 For smooth experience transitioning to Google Assistant from Google Now follow these steps:
 
 1. Enable OK Google Detection from any screen and train the voice model **before** installing the module.

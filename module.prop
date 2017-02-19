@@ -4,5 +4,3 @@ version=10.0.2
 versionCode=5
 author=stangri
 description=This module enables Google Assistant on Nougat (Android 7) devices.
-donate=https://cash.me/$stangri
-support=http://forum.xda-developers.com/apps/magisk/module-google-assistant-enabler-magisk-t3518883
