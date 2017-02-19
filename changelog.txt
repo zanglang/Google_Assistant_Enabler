@@ -1,8 +1,0 @@
-10.0.2
-    - No longer change phone model/manufacturer
-
-10.0.0
-    - Magisk v10-compatible
-
-2.0.0
-    - Magisk v9-compatible
