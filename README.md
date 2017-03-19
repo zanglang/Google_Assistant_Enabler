@@ -23,6 +23,9 @@ From version 10.0.2 this module no longer changes the phone model/manufacturer. 
 The legacy version which still changes the phone model can be downloaded [here](https://github.com/stangri/MagiskFiles/raw/master/GoogleAssistantEnabler-10.0.1.zip). It is kept for people who have apps which trigger security protection when the phone model change is detected. This is also the latest version compatible with Magisk 9.
 
 ## Change Log
+11.0.0
+    - Magisk v11-compatible, use of template v2.
+
 10.0.2
     - No longer change phone model/manufacturer
 
