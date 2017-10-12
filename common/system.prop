@@ -2,4 +2,6 @@
 # Example: Change dpi
 # ro.sf.lcd_density=320
 
+ro.product.model=Pixel 2 XL
 ro.opa.eligible_device=true
+ro.product.manufacturer=Google
